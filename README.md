@@ -66,7 +66,9 @@
 
 ---
 
-<!-- 🔮 Footer Glow -->
+<!-- 🌌 Dark Theme Footer Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=0fffc1&height=120&section=footer&text=Thanks+for+visiting!&fontColor=000000&fontSize=24&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2c3e50,34495e,2c3e50&height=150&section=footer&text=💖+Thanks+for+visiting!+See+you+soon+🚀&fontColor=ffffff&fontSize=32&fontAlignY=40&background=transparent" />
 </p>
+
+
