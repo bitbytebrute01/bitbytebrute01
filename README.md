@@ -1,4 +1,4 @@
-<img src = '[https://in.pinterest.com/pin/5348093302313179/](https://www.bing.com/images/search?view=detailV2&ccid=d%2bcWnsl8&id=EC4EA6497F8B22EBE01C7C4DB62B48934A75A2F5&thid=OIP.d-cWnsl8D2tOFKX3yUSfWQHaDt&mediaurl=https%3a%2f%2fimg.freepik.com%2ffree-vector%2fweb-development-coding-programming-futuristic-banner-computer-code-laptop_3482-5572.jpg%3fw%3d1800&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.77e7169ec97c0f6b4e14a5f7c9449f59%3frik%3d9aJ1SpNIK7ZNfA%26pid%3dImgRaw%26r%3d0&exph=900&expw=1800&q=banner+images+for+coding&simid=608054717566951065&FORM=IRPRST&ck=B4E8777B302CB9CBD8A976FF422839E3&selectedIndex=0&itb=0&idpp=overlayview&ajaxhist=0&ajaxserp=0)'>
+<img src = '**https://www.istockphoto.com/vector/glitch-game-background-with-abstract-noise-pixels-gm2164714642-584972566**'>
 <h1 align="center">Hi 👋, I'm Aditya Joshi</h1>
 <h3 align="center">A passionate programmer from Hubli</h3>
 <img src = 'https://in.pinterest.com/pin/59813501291475495/'>
