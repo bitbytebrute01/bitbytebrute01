@@ -15,7 +15,7 @@
 </p>
 
 <!-- 👨‍💻 Dev GIF -->
-<img align="right" src="https://www.simontechway.com/wp-content/uploads/2020/04/dev-gif.gif" width="300"/>
+<img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" width="250"/>
 
 
 ⚡ About Me
