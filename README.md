@@ -1,6 +1,8 @@
 <img src = 'https://www.istockphoto.com/vector/glitch-game-background-with-abstract-noise-pixels-gm2164714642-584972566'>
 <h1 align="center">Hi 👋, I'm Aditya Joshi</h1>
 <h3 align="center">A passionate programmer from Hubli</h3>
+
+<img src = 'https://www.simontechway.com/wp-content/uploads/2020/04/dev-gif.gif' width = 400>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bitbytebrute01&label=Profile%20views&color=0e75b6&style=flat" alt="bitbytebrute01" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -10,7 +12,7 @@
 - 💬 Ask me about **C++ , Frontend Technologies**
 
 - 📫 How to reach me **bitbytebrute01@gmail.com**
-- <img src = 'https://www.simontechway.com/wp-content/uploads/2020/04/dev-gif.gif' width = 400>
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
