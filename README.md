@@ -1,4 +1,4 @@
-<img src = '**https://www.istockphoto.com/vector/glitch-game-background-with-abstract-noise-pixels-gm2164714642-584972566**'>
+<img src = 'https://www.istockphoto.com/vector/glitch-game-background-with-abstract-noise-pixels-gm2164714642-584972566'>
 <h1 align="center">Hi 👋, I'm Aditya Joshi</h1>
 <h3 align="center">A passionate programmer from Hubli</h3>
 <img src = 'https://in.pinterest.com/pin/59813501291475495/'>
