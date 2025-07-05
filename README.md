@@ -19,7 +19,7 @@
 
 
 ⚡ About Me
-+ 🔭 I’m currently working on React projects with C++ backend logic
++ 🔭 I’m currently working on React projects and Data Structures with C++
 + 🌱 Learning Next.js, TypeScript & mastering DSA
 + 💬 Ask me about Web Dev, C++, or productivity hacks
 + 📫 Contact me at: bitbytebrute01@gmail.com
