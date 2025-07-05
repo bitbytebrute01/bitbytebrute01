@@ -1,79 +1,75 @@
-<!-- Hero GIF Banner -->
+<!-- 💥 Neon Header Banner -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" width="100%" />
 </p>
 
-<!-- Heading -->
-<h1 align="center">Hi 👋, I'm <span style="color:#0abde3;">Aditya Joshi</span></h1>
-<h3 align="center">🚀 Passionate Programmer from Hubli | Web Dev & C++ Enthusiast 💻</h3>
+<!-- 🚀 Animated Neon Typing Intro -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Aditya+Joshi;Frontend+Developer+%7C+C%2B%2B+Programmer;Tech+Lover+%7C+Lifelong+Learner;Welcome+to+my+glow+zone!+%F0%9F%92%A5" alt="Typing SVG" />
+</h1>
 
-<!-- Typing Animation -->
+<!-- 🌟 Stats & Social -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C7FF&center=true&vCenter=true&width=435&lines=Frontend+Developer+%7C+C%2B%2B+Programmer;Always+Learning+New+Tech;Love+to+Build+Cool+Stuff" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=bitbytebrute01&label=Profile%20views&color=00ffff&style=plastic" alt="Profile Views" />
+  <img src="https://img.shields.io/twitter/follow/your-twitter-handle?style=plastic&logo=twitter&color=00ffff" alt="Twitter Follow Badge" />
 </p>
 
-<!-- Profile Views & Twitter Badge -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bitbytebrute01&label=Profile%20views&color=0e75b6&style=flat" alt="bitbytebrute01" />
-  <img src="https://img.shields.io/twitter/follow/your-twitter-handle?style=social" alt="Twitter Follow Badge" />
-</p>
-
-<!-- Dev GIF -->
-<img align="right" src="https://www.simontechway.com/wp-content/uploads/2020/04/dev-gif.gif" width="400" />
+<!-- 👨‍💻 Dev GIF -->
+<img align="right" src="https://www.simontechway.com/wp-content/uploads/2020/04/dev-gif.gif" width="400"/>
 
 ---
 
-### 🚀 About Me
+## ⚡ About Me
 
-- 🔭 I’m currently working on **React Projects**
-- 🌱 I’m learning **C++, JavaScript, and Data Structures**
-- 💬 Ask me about **Frontend Technologies, Problem Solving**
-- 📫 Reach me at **bitbytebrute01@gmail.com**
+```diff
++ 🔭 I’m currently working on React projects with C++ backend logic
++ 🌱 Learning Next.js, TypeScript & mastering DSA
++ 💬 Ask me about Web Dev, C++, or productivity hacks
++ 📫 Contact me at: bitbytebrute01@gmail.com
++ 🧠 Motto: "Code, Learn, Repeat!"
+```
 
 ---
 
-### 🛠️ Languages & Tools
+## 🚀 Tech Stack
 
 <p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,java,python,react,nodejs,mongodb,mysql,postgres,tailwind" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 🌈 GitHub Stats (Neon Style)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bitbytebrute01&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitbytebrute01&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=bitbytebrute01&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bitbytebrute01&show_icons=true&theme=tokyonight&title_color=00ffff&text_color=00ffff&icon_color=00ffff" />
+  <br /><br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitbytebrute01&layout=compact&theme=tokyonight&title_color=00ffff&text_color=00ffff" />
+  <br /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bitbytebrute01&theme=tokyonight&ring=00ffff&fire=00ffff&currStreakLabel=00ffff" />
 </p>
 
 ---
 
-### 🌐 Connect with Me
+## 🔗 Connect With Me
 
 <p align="center">
-  <a href="mailto:bitbytebrute01@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/your-twitter"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter"/></a>
+  <a href="mailto:bitbytebrute01@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/your-twitter"><img src="https://img.icons8.com/fluency/48/000000/twitter.png" alt="Twitter" /></a>
+  <a href="https://github.com/bitbytebrute01"><img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" /></a>
 </p>
 
 ---
 
+## ✨ Quotes That Keep Me Going
+
+> _"Stay hungry, stay foolish."_ — *Steve Jobs*  
+> _"Code is like humor. When you have to explain it, it’s bad."_ — *Cory House*
+
+---
+
+<!-- 🔮 Footer Glow -->
 <p align="center">
-  🧠 *Learning every day. Building cool stuff. Let's connect and grow together!*
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=0fffc1&height=120&section=footer&text=Thanks+for+visiting!&fontColor=000000&fontSize=24&fontAlignY=40" />
 </p>
