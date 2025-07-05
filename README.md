@@ -1,4 +1,4 @@
-<img src = 'https://www.istockphoto.com/vector/glitch-game-background-with-abstract-noise-pixels-gm2164714642-584972566'>
+<img src = 'https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif'>
 <h1 align="center">Hi 👋, I'm Aditya Joshi</h1>
 <h3 align="center">A passionate programmer from Hubli</h3>
 
