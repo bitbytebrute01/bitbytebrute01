@@ -15,26 +15,23 @@
 </p>
 
 <!-- 👨‍💻 Dev GIF -->
-<img align="right" src="https://www.simontechway.com/wp-content/uploads/2020/04/dev-gif.gif" width="400"/>
+<img align="right" src="https://www.simontechway.com/wp-content/uploads/2020/04/dev-gif.gif" width="300"/>
 
----
 
-## ⚡ About Me
-
-```diff
+⚡ About Me
 + 🔭 I’m currently working on React projects with C++ backend logic
 + 🌱 Learning Next.js, TypeScript & mastering DSA
 + 💬 Ask me about Web Dev, C++, or productivity hacks
 + 📫 Contact me at: bitbytebrute01@gmail.com
 + 🧠 Motto: "Code, Learn, Repeat!"
-```
 
----
+<br>
+<br>
 
 ## 🚀 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,java,python,react,nodejs,mongodb,mysql,postgres,tailwind" />
+<p align="center" style="margin-top=20px";>
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,java,python,react,nodejs,mongodb,mysql,postgres,tailwind" / style='margin-top=20px';>
 </p>
 
 ---
