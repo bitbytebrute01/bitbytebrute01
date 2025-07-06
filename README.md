@@ -15,7 +15,7 @@
 </p>
 
 <!-- 👨‍💻 Dev GIF -->
-<img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" width="250"/>
+<img align="right" src="https://raw.githubusercontent.com/angeloevangelista/angeloevangelista/master/.github/images/rounded-coding.gif" width="300"/>
 
 
 ⚡ About Me
