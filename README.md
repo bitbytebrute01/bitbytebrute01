@@ -66,9 +66,22 @@
 
 ---
 
-<!-- 🌌 Dark Theme Footer Banner -->
+
+
+
+<!-- Ultra-Neon README for GitHub profile
+     Created for: bitbytebrute01 (Aditya Joshi)
+     Notes: Paste this into your repository's README.md to use.
+-->
+
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2c3e50,34495e,2c3e50&height=150&section=footer&text=💖+Thanks+for+visiting!+See+you+soon+🚀&fontColor=ffffff&fontSize=32&fontAlignY=40&background=transparent" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bitbytebrute01&theme=tokyonight&margin-w=10" alt="Trophies" />
+</p>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=141414,0f172a&height=120&section=footer&text=%E2%9D%A4%EF%B8%8F+Thanks+for+stopping+by!+Let's+build+something+awesome+%F0%9F%9A%80&fontColor=00FFFF&fontSize=24" alt="footer"/>
 </p>
 
 
