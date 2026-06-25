@@ -108,22 +108,6 @@ Every project I commit is a step forward. Every mistake is documented. Every con
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/adityajoshi/python-mastery">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adityajoshi&repo=python-mastery&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF7F&text_color=8b949e&icon_color=6366f1" />
-</a>
-&nbsp;
-<a href="https://github.com/adityajoshi/ai-systems-journey">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adityajoshi&repo=ai-systems-journey&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF7F&text_color=8b949e&icon_color=6366f1" />
-</a>
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
