@@ -1,410 +1,167 @@
-<!--
-  ╔══════════════════════════════════════════════════════════════════╗
-  ║         ADITYA JOSHI — GitHub Profile README                    ║
-  ║         AI Systems Engineer (In Progress)                       ║
-  ║         Version 1.0 · Built to grow over the next several years ║
-  ╚══════════════════════════════════════════════════════════════════╝
-
-  Sections:
-  1. Hero Banner
-  2. About Me (Python class)
-  3. Current Mission
-  4. Learning Roadmap
-  5. Current Stack
-  6. GitHub Stats
-  7. Featured Repositories
-  8. Philosophy
-  9. Connect
--->
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!-- § 1 · HERO BANNER                                      -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:0d0d0d&height=120&section=header&text=&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Aditya%20Joshi&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=AI%20Systems%20Engineer%20—%20In%20Progress&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
 
-<br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF7F&center=true&vCenter=true&width=750&lines=Building+in+Public+%F0%9F%9A%80;Learning+AI+Systems+from+First+Principles;Python+%E2%86%92+ML+%E2%86%92+Deep+Learning+%E2%86%92+LLMs+%E2%86%92+Production;Documenting+Every+Step+of+the+Journey" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Aditya+Joshi;AI+Systems+Engineer+%E2%80%94+In+Progress)](https://git.io/typing-svg)
+<p><strong>Aspiring AI Systems Engineer · Learning Deeply · Building from First Principles</strong></p>
 
-<br/>
+<p>
+  <a href="#about"><kbd>About</kbd></a> •
+  <a href="#mission"><kbd>Mission</kbd></a> •
+  <a href="#roadmap"><kbd>Roadmap</kbd></a> •
+  <a href="#tech-stack"><kbd>Tech Stack</kbd></a> •
+  <a href="#projects"><kbd>Projects</kbd></a> •
+  <a href="#connect"><kbd>Connect</kbd></a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=16&duration=4000&pause=2000&color=888888&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=40&lines=Building+in+public.+Learning+from+first+principles.;Breaking+things+to+understand+them.;Documenting+every+step+of+the+journey.)](https://git.io/typing-svg)
-
-<br/>
-
-<!-- Status pill -->
-<img src="https://img.shields.io/badge/Status-Actively%20Learning-22c55e?style=flat-square&labelColor=0d0d0d&color=22c55e" />
-&nbsp;
-<img src="https://img.shields.io/badge/Focus-AI%20Systems%20Engineering-6366f1?style=flat-square&labelColor=0d0d0d&color=6366f1" />
-&nbsp;
-<img src="https://img.shields.io/badge/Building-In%20Public-f59e0b?style=flat-square&labelColor=0d0d0d&color=f59e0b" />
+<p>
+  <img src="https://img.shields.io/badge/Status-Actively%20Learning-00FF7F?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Focus-AI%20Systems%20Engineering-6366f1?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Phase-Foundation-f59e0b?style=flat-square&labelColor=0d1117" />
+</p>
 
 </div>
 
-<br/>
+---
+
+## 👨‍💻 About Me
+
+I am serious about AI Engineering. I'm not following basic tutorial playlists and calling it "learning AI." I am going deep—understanding the **fundamentals**, the **systems**, and the **architecture**—and building real things at every step. 
+
+* 🌍 **Based in:** India 🇮🇳
+* 🎯 **Current Focus:** Foundation Phase — Python, Data Structures, & AI Fundamentals
+* 🚀 **Mission:** Become a world-class AI Systems Engineer in 12 months
+* 🧠 **Currently Learning:** Deep Python internals, Git collaboration, and core AI mental models
+* 🏗️ **Building Toward:** Production-grade ML systems, LLM-powered apps, and MLOps pipelines
+
+> *"Strong foundations matter. Strong systems matter more."*
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!-- § 2 · ABOUT ME                                         -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## `> about_me`
-
-```python
-class Aditya:
-    """
-    AI Systems Engineer — In Progress.
-    Learning publicly. Building relentlessly. Starting from first principles.
-    """
-
-    name       = "Aditya Joshi"
-    stage      = "Foundation Phase — Python & AI Fundamentals"
-    mission    = "Become a world-class AI Systems Engineer in 12 months"
-    approach   = ["Learn deeply", "Build things", "Break things", "Document everything"]
-    location   = "India 🇮🇳"
-
-    currently_learning = [
-        "Python (deeply, not just syntax)",
-        "Git & GitHub",
-        "Programming fundamentals",
-        "AI & ML foundations",
-        "Problem solving & CS basics",
-    ]
-
-    building_toward = [
-        "Production-grade ML systems",
-        "LLM-powered applications",
-        "Distributed AI infrastructure",
-        "MLOps & model deployment pipelines",
-        "Agentic AI systems",
-    ]
-
-    principles = [
-        "No shortcuts. Real understanding only.",
-        "If I can't build it, I don't know it.",
-        "Public learning accelerates growth.",
-        "Depth over breadth, always.",
-    ]
-
-    def __repr__(self):
-        return "Someone who is serious about AI Engineering."
-```
-
-<br/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!-- § 3 · CURRENT MISSION                                  -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## `> current_mission`
+## ⚡ Current Mission
 
 <div align="center">
-
-> **I am documenting my entire AI Systems Engineering journey — publicly, from zero.**
-
+  <h3>I am documenting my entire AI Systems Engineering journey — publicly, from zero.</h3>
 </div>
 
-I'm not following a tutorial playlist and calling it "learning AI."  
-I'm going deep — understanding the math, the systems, the architecture — and building real things along the way.
+Every project I commit is a step forward. Every mistake is documented. Every concept I learn, I try to build from scratch. The goal isn't to collect certificates; the goal is to become someone who can **design, build, and deploy production AI systems**.
 
-Every project I commit is a step forward. Every mistake is documented. Every concept I learn, I try to build.
-
-**The loop:**
-
-```
-BUILD  →  BREAK  →  UNDERSTAND  →  REBUILD  →  REPEAT
-```
-
-The goal isn't to collect certificates.  
-The goal is to become someone who can **design, build, and deploy production AI systems** — from first principles.
-
-<br/>
+**My Loop:**
+`BUILD` ➔ `BREAK` ➔ `UNDERSTAND` ➔ `REBUILD` ➔ `REPEAT`
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!-- § 4 · LEARNING ROADMAP                                 -->
-<!-- ═══════════════════════════════════════════════════════ -->
+## 🗺️ Learning Roadmap
 
-## `> roadmap`
+*An honest, structured progression. Everything I've done, what I'm doing now, and what's coming next.*
 
-*An honest, structured progression toward AI Systems Engineering.*
-
-<details open>
-<summary><strong>Phase 1 — Foundation &nbsp; 🚧 Current</strong></summary>
-
-<br/>
-
+### 🚧 Phase 1: Foundation (In Progress)
 | Status | Topic | Notes |
 |:------:|-------|-------|
-| 🚧 | **Python** | Going deep — not just syntax |
-| 🚧 | **Git & GitHub** | Version control, collaboration |
-| 🚧 | **Programming Fundamentals** | Data structures, algorithms, CS basics |
-| 🚧 | **AI Foundations** | Core concepts, terminology, mental models |
+| 🚧 | **Python** | Going deep — not just syntax, but internals |
+| 🚧 | **Git & GitHub** | Version control, branching, collaboration |
+| 🚧 | **DSA & Fundamentals** | Data structures, algorithms, CS basics |
 | 🚧 | **Linux & Terminal** | Command line proficiency |
 
-</details>
-
-<details>
-<summary><strong>Phase 2 — Data & Math &nbsp; ⬜ Upcoming</strong></summary>
-
-<br/>
-
+### ⬜ Phase 2: Data & Math (Upcoming)
 | Status | Topic | Notes |
 |:------:|-------|-------|
-| ⬜ | **NumPy** | Numerical computing |
-| ⬜ | **Pandas** | Data manipulation |
-| ⬜ | **Matplotlib** | Data visualization |
-| ⬜ | **Jupyter** | Exploration environment |
+| ⬜ | **NumPy & Pandas** | Numerical computing & Data manipulation |
 | ⬜ | **Linear Algebra** | Vectors, matrices, transformations |
-| ⬜ | **Calculus & Statistics** | Gradients, probability, distributions |
+| ⬜ | **Calculus & Stats** | Gradients, probability, distributions |
 
-</details>
-
-<details>
-<summary><strong>Phase 3 — Machine Learning &nbsp; ⬜ Upcoming</strong></summary>
-
-<br/>
-
+### ⬜ Phase 3: Machine Learning (Upcoming)
 | Status | Topic | Notes |
 |:------:|-------|-------|
-| ⬜ | **Machine Learning** | Supervised, unsupervised, reinforcement |
 | ⬜ | **Deep Learning** | Neural networks from scratch |
 | ⬜ | **PyTorch** | Primary deep learning framework |
-| ⬜ | **Transformers** | Attention mechanisms, architecture |
-| ⬜ | **LLMs** | Large language model internals |
+| ⬜ | **LLMs & Transformers** | Architecture and model internals |
 
-</details>
+---
+
+## 🛠️ Tech Stack
+
+**What I'm genuinely working with right now:**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
 
 <details>
-<summary><strong>Phase 4 — AI Systems & Infrastructure &nbsp; ⬜ Future</strong></summary>
-
+<summary><strong>🔮 View Full Future Stack (Technologies I'm Building Toward)</strong></summary>
 <br/>
-
-| Status | Topic | Notes |
-|:------:|-------|-------|
-| ⬜ | **RAG** | Retrieval-augmented generation |
-| ⬜ | **Vector Databases** | Embeddings, similarity search |
-| ⬜ | **FastAPI** | Building model-serving APIs |
-| ⬜ | **Docker** | Containerization |
-| ⬜ | **PostgreSQL** | Relational databases |
-| ⬜ | **Redis** | Caching, queues |
-| ⬜ | **AWS** | Cloud infrastructure |
-| ⬜ | **Kubernetes** | Container orchestration |
-| ⬜ | **Kafka** | Distributed streaming |
-| ⬜ | **Distributed Systems** | CAP theorem, consistency, reliability |
-| ⬜ | **MLOps** | Model lifecycle, CI/CD for ML |
-| ⬜ | **Agentic AI** | Autonomous agent systems |
-
+<p align="left">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+</p>
+<em>These are goals, not claims. I'll move them up as I genuinely learn each one.</em>
 </details>
 
-<br/>
-
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!-- § 5 · CURRENT STACK                                    -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## `> current_stack`
-
-*What I'm genuinely working with right now — nothing more, nothing less.*
-
-<div align="center">
-
-<br/>
-
-[![My Skills](https://skillicons.dev/icons?i=python,git,github,vscode,linux&theme=dark)](https://skillicons.dev)
-
-<br/>
-
-</div>
-
-<details>
-<summary><strong>Full Future Roadmap — Technologies I'm Building Toward</strong></summary>
-
-<br/>
-
-<div align="center">
-
-**Data & Math**
-
-[![Data Skills](https://skillicons.dev/icons?i=py&theme=dark)](https://skillicons.dev)
-`NumPy` &nbsp; `Pandas` &nbsp; `Matplotlib` &nbsp; `Jupyter`
-
-<br/>
-
-**ML & Deep Learning**
-
-`PyTorch` &nbsp; `Transformers` &nbsp; `LLMs` &nbsp; `RAG` &nbsp; `Vector DBs`
-
-<br/>
-
-**Systems & Infrastructure**
-
-[![Infra Skills](https://skillicons.dev/icons?i=fastapi,docker,postgres,redis,aws,kubernetes,kafka&theme=dark)](https://skillicons.dev)
-
-<br/>
-
-**Engineering**
-
-`MLOps` &nbsp; `Distributed Systems` &nbsp; `Agentic AI` &nbsp; `Cloud Infrastructure`
-
-</div>
-
-<br/>
-
-</details>
-
-<br/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!-- § 6 · GITHUB STATS                                     -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## `> metrics`
-
-<div align="center">
-
-<br/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=adityajoshi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=6366f1&count_private=true&hide=issues&rank_icon=github" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityajoshi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&langs_count=6" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adityajoshi&theme=github-dark-blue&hide_border=true&background=0d0d0d&ring=6366f1&fire=f59e0b&currStreakLabel=ffffff&sideLabels=888888&dates=555555" />
-
-<br/>
-
-</div>
-
-<br/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!-- § 7 · FEATURED REPOSITORIES                            -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## `> featured_work`
-
-*Everything is a work in progress. That's the point.*
+## 🚀 Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/adityajoshi/python-mastery">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adityajoshi&repo=python-mastery&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=6366f1" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adityajoshi&repo=python-mastery&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF7F&text_color=8b949e&icon_color=6366f1" />
 </a>
 &nbsp;
 <a href="https://github.com/adityajoshi/ai-systems-journey">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adityajoshi&repo=ai-systems-journey&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=6366f1" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adityajoshi&repo=ai-systems-journey&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF7F&text_color=8b949e&icon_color=6366f1" />
 </a>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=adityajoshi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF7F&text_color=8b949e&icon_color=6366f1&count_private=true&hide=issues&rank_icon=github" />
+&nbsp;&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityajoshi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF7F&text_color=8b949e&langs_count=6" />
 
 <br/><br/>
 
-<a href="https://github.com/adityajoshi/ml-from-scratch">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adityajoshi&repo=ml-from-scratch&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=6366f1" />
-</a>
-&nbsp;
-<a href="https://github.com/adityajoshi/build-log">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adityajoshi&repo=build-log&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=6366f1" />
-</a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adityajoshi&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00FF7F&fire=f59e0b&currStreakLabel=ffffff&sideLabels=8b949e&dates=555555&currStreakNum=00FF7F&sideNums=00FF7F" />
 
 </div>
 
-<br/>
-
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!-- § 8 · PHILOSOPHY                                       -->
-<!-- ═══════════════════════════════════════════════════════ -->
+## 🤝 Connect With Me
 
-## `> philosophy`
-
-<br/>
+<p align="center">
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/adityajoshi">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/adityajoshi">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 <div align="center">
 
-```
-"Learning isn't complete until I can build it."
-```
+**Open to:** Learning Collaborations • Open Source • AI/ML Study Groups
 
-```
-"If I can't explain it from scratch, I haven't understood it."
-```
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=00FF7F&center=true&vCenter=true&width=600&lines=Learning+through+building.;No+shortcuts.+Real+understanding+only.;The+journey+is+the+product." />
 
-```
-"The gap between knowing and doing is where most people stop.
- I intend to close it, repeatedly."
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer" width="100%" />
 
-</div>
-
-<br/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!-- § 9 · CONNECT                                          -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## `> connect`
-
-<br/>
-
-<div align="center">
-
-<!-- Update these links with your real handles -->
-
-<a href="mailto:adityajoshi@email.com">
-  <img src="https://img.shields.io/badge/Email-adityajoshi%40email.com-0d0d0d?style=flat-square&logo=gmail&logoColor=white&labelColor=0d0d0d&color=1a1a2e" />
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/adityajoshi">
-  <img src="https://img.shields.io/badge/LinkedIn-adityajoshi-0d0d0d?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=0d0d0d&color=1a1a2e" />
-</a>
-&nbsp;
-<a href="https://github.com/adityajoshi">
-  <img src="https://img.shields.io/badge/GitHub-adityajoshi-0d0d0d?style=flat-square&logo=github&logoColor=white&labelColor=0d0d0d&color=1a1a2e" />
-</a>
-&nbsp;
-<a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-0d0d0d?style=flat-square&logo=vercel&logoColor=white&labelColor=0d0d0d&color=1a1a2e" />
-</a>
-
-<br/><br/>
-
-*I'm early in this journey — if you're building in AI or want to collaborate, reach out.*
-
-</div>
-
-<br/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!-- FOOTER                                                 -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:0d0d0d&height=80&section=footer" width="100%"/>
-
-<br/>
-
-<sub>
-  Last updated · 2026 &nbsp;·&nbsp; Built to evolve &nbsp;·&nbsp; v1.0
-</sub>
+<sub>Last updated · 2026 &nbsp;·&nbsp; Built to evolve &nbsp;·&nbsp; v2.0</sub>
 
 </div>
